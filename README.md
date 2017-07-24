@@ -1,6 +1,7 @@
 # ACTA CONSTITUCIÓN BLOCKCHAIN TRANSPARENCIA MUNDIAL
 
 Las Actas se pueden verificar en los siguiente enlaces.
+
 Acta Documento [https://stamp.io/stamp/j5ik177b](https://stamp.io/stamp/j5ik177b "ACTA_CONSTITUCIÓN_BLOCKCHAIN_TRANSPARENCIA_MUNDIAL.docx")
 
 Datos Hash BBDA0FA0FE00E22A14ABB02710088321E0D646341B3EC2C1D0550946E5AFED35
